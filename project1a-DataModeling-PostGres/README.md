@@ -15,11 +15,11 @@ In this project, I have to model data with Postgres and build and ETL pipeline u
 | | Time
 
 
-**songplays**: records in log data associated with song plays
-**users**: in the app
-**songs**: in music database
-**artists**: in music database
-**time:**: timestamps of records in songplays broken down into specific units
+- **songplays**: records in log data associated with song plays
+- **users**: in the app
+- **songs**: in music database
+- **artists**: in music database
+- **time:**: timestamps of records in songplays broken down into specific units
 
 ## Project Design
 Database Design is very simple. With only a few tables we can get the information with a simple join.
